@@ -1,3 +1,4 @@
-Hi I'm W3SLAV aka gt4uos (and Toastendo :D), I am a russian student and amature programmer who has an obsession with hacking consoles.
-Check me out on Youtube: https://www.youtube.com/channel/UC4rb8oeV9wloWLIcWUkk3Og/videos.
-IF YOU STEAL MY CODE I WILL END YOU!
+Hi, I'm W3SLAV, here's what I do:
+-Some meh programming in C, C++, C#, Python, Java, HTML and CSS
+-Some basic English <-> Russian and English <-> Spanish translations
+-Ask me about Jesus, He's pretty important too
